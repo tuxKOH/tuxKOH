@@ -20,35 +20,34 @@
 </div>
 
 <div align="center">
-  <i><sub><font color="#8b949e">Rust Kotlin Java are being learned :D </font></sub></i>
+  <i><sub>Rust Kotlin Java are being learned :D</sub></i>
 </div>
 
 ---
 
-![GitHub Contributions Graph](https://ghchart.rshah.org/tuxKOH)
-
----
-
 <div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuxKOH&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&hide_border=true)
-
+  <img src="https://ghchart.rshah.org/tuxKOH" alt="GitHub Contributions Graph">
 </div>
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuxKOH&show_icons=true&count_private=true&hide_title=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=ffffff&hide=prs)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuxKOH&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&hide_border=true" alt="Top Langs">
+</div>
 
 ---
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tuxKOH&show_icons=true&count_private=true&hide_title=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=ffffff&hide=prs" alt="GitHub Stats">
+</div>
 
-<a href="https://discord.com/users/tux_KOH">
-  <img src="https://img.shields.io/badge/Discord-tux_KOH-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-</a>
+---
 
-<a href="mailto:bingzhen0919@gmail.com">
-  <img src="https://img.shields.io/badge/Email-bingzhen0919%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
+<div align="center">
+  <a href="https://discord.com/users/tux_KOH">
+    <img src="https://img.shields.io/badge/Discord-tux_KOH-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="mailto:bingzhen0919@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bingzhen0919%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
